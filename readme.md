@@ -30,9 +30,6 @@ It's easy to use and simple to set up. From one simple settings screen, you can:
 * Unlimited colors for tab elements
 * All CSS, no graphics
 
-= Development =
-<a href="https://github.com/rumspeed/simple-side-tab" title="Simple Side Tab on GitHub">https://github.com/rumspeed/simple-side-tab</a></p>
-
 
 == Installation ==
 
